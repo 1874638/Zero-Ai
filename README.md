@@ -3,7 +3,7 @@
 가상환경 생성 후 의존성 설치
 bash
 python -m venv .venv
-# Windows: .venv\Scripts\activate, mac/Linux: source .venv/bin/activate
+# Windows: .venv\Scripts\activate, mac/Linux: source .venv/bin/activate 
 source .venv/bin/activate
 pip install -r requirements.txt
 데이터·토크나이저 준비
